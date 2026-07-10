@@ -1,0 +1,20 @@
+name: PFCnACproj
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - pip
+  - seaborn
+  - umap-learn
+  - mne
+  - numpy
+  - scikit-learn
+  - scipy
+  - plotly
+  - openpyxl
+  - python=3.14
+  - matplotlib
+  - statsmodels
+  - joblib
+  - pyarrow
+prefix: /Users/caihuaizhen1991gmail.com/miniconda3/envs/PFCnACproj
